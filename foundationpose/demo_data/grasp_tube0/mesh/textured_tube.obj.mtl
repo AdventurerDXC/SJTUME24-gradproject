@@ -1,0 +1,10 @@
+# Material for the plastic test tube
+newmtl PlasticTestTube
+Ka 0.5 0.5 0.5
+Kd 0.9 0.9 0.9
+Ks 0.5 0.5 0.5
+Ns 200
+d 0.8
+illum 2
+map_Kd tube_texture.png
+

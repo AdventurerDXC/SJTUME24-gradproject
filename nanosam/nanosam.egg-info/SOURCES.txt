@@ -1,0 +1,7 @@
+LICENSE.md
+README.md
+setup.py
+nanosam.egg-info/PKG-INFO
+nanosam.egg-info/SOURCES.txt
+nanosam.egg-info/dependency_links.txt
+nanosam.egg-info/top_level.txt
