@@ -1,0 +1,3 @@
+/home/xcdai/MVTec/HALCON-23.11-Progress/examples/cpp/detectCircles/cmake-build-debug/CMakeFiles/DetectCircles.dir
+/home/xcdai/MVTec/HALCON-23.11-Progress/examples/cpp/detectCircles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xcdai/MVTec/HALCON-23.11-Progress/examples/cpp/detectCircles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
